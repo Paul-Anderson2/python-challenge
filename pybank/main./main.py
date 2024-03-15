@@ -11,7 +11,7 @@ import csv
 
 # Read resources from the csv file that was provided (budget_data.csv)
 
-csv_path = "budget_data.csv"
+csv_path = "pybank/resources"
 
 #initialize variables
 
