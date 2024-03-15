@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 """
 Created on Thu Mar 14 10:55:59 2024
 
@@ -24,6 +24,7 @@ month = []
 #main loop which iterates through each row in the csv file
 #updates total_months and total_profit_or_loss variables
 #stores the values calculated in changes and month variables
+#sets comma as delimiter
 
 with open(csv_path, newline="") as csvfile:
     csvreader = csv.reader(csvfile, delimiter=",")
