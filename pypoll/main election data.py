@@ -9,7 +9,7 @@ import csv
 
 # Read resources from the csv file that was provided
 
-csv_path = "C:/Users/pauld/OneDrive/Desktop/VU Analytics Boot Camp/Mod 3 HW/election_data.csv"
+csv_path = "pypoll/resources/election_data.csv"
 
 #Define new variables and initialize them
 total_votes = 0
