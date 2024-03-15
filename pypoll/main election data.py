@@ -4,10 +4,10 @@ Created on Thu Mar 14 11:03:57 2024
 
 @author: pauld
 """
-
+#get the file to be used by the code
 import csv
 
-# Read resources from the csv file that was provided
+# read the csv file
 
 csv_path = "pypoll/resources/election_data.csv"
 
