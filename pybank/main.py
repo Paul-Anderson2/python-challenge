@@ -4,7 +4,7 @@ Created on Thu Mar 14 10:55:59 2024
 
 @author: pauld
 """
-
+#import the csv file
 import csv
 
 
